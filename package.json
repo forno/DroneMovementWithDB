@@ -1,0 +1,16 @@
+{
+  "name": "link.xmaho.movement.db.drone",
+  "version": "0.0.1-preview",
+  "displayName": "Drone Movement with Dynamic Bone",
+  "description": "x.maho Drone Movement with Dynamic Bone",
+  "unity": "2018.4",
+  "keywords": [
+    "VRChat",
+    "VRC"
+  ],
+  "author": {
+    "name": "FORNO",
+    "email": "forno@xmaho.link",
+    "url": "https://github.com/forno"
+  }
+}
