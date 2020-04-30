@@ -174,7 +174,7 @@ PrefabInstance:
     - target: {fileID: 5881994989188094524, guid: 70ea310921328ec458269f995da39b54,
         type: 3}
       propertyPath: m_Name
-      value: DroneDelayMovement
+      value: DelayMovement
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70ea310921328ec458269f995da39b54, type: 3}
