@@ -8,7 +8,6 @@ x.maho Drone Movement System with Dynamic Bone
 #### If you want to see VRCSample
 [VRChat SDK2](https://vrchat.com/home/download)
 
-## Installation
 ### Unity 2019 or later
 - Open Package Manager window from Window menu
 - Select "Add package from git URL..." from "+" icon on top left
