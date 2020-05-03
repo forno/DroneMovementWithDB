@@ -170,7 +170,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8756912086879776871}
-  - component: {fileID: 8766896402095849574}
+  - component: {fileID: 4197947099681628304}
   m_Layer: 0
   m_Name: Target
   m_TagString: Untagged
@@ -192,8 +192,8 @@ Transform:
   m_Father: {fileID: 3204423567781799215}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1773428102 &8766896402095849574
-ParentConstraint:
+--- !u!1818360608 &4197947099681628304
+PositionConstraint:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -201,18 +201,11 @@ ParentConstraint:
   m_GameObject: {fileID: 6026104008775822302}
   m_Enabled: 1
   m_Weight: 1
-  m_TranslationAtRest: {x: 0, y: 0, z: 1.0000004}
-  m_RotationAtRest: {x: 0, y: 0, z: 0}
-  m_TranslationOffsets:
-  - {x: 0, y: 0, z: 0}
-  m_RotationOffsets:
-  - {x: 0, y: 0, z: 0}
+  m_TranslationAtRest: {x: 0, y: 0, z: 1}
+  m_TranslationOffset: {x: 0, y: 0, z: 0}
   m_AffectTranslationX: 1
   m_AffectTranslationY: 1
   m_AffectTranslationZ: 1
-  m_AffectRotationX: 1
-  m_AffectRotationY: 1
-  m_AffectRotationZ: 1
   m_IsContraintActive: 1
   m_IsLocked: 1
   m_Sources:
