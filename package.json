@@ -8,6 +8,16 @@
     "VRChat",
     "VRC"
   ],
+  "samples": [
+  {
+    "displayName": "Usage",
+    "description": "Drone Movement w/ DB Sample",
+    "path": "Samples~/Usage" },
+  {
+    "displayName": "VRChat Sample",
+    "description": "Drone Movement w/ DB for VRChat",
+    "path": "Samples~/VRChat"
+  }],
   "author": {
     "name": "FORNO",
     "email": "forno@xmaho.link",
