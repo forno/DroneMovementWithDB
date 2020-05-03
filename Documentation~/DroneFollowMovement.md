@@ -1,5 +1,5 @@
-# FollowMovement
-Follow movement prefab
+# DroneFollowMovement
+Follow movement prefab with rotation
 
 ## Object Hierachy
 
