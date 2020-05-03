@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1773428102 &1288248932310613697
+ParentConstraint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890699392689873257}
+  m_Enabled: 1
+  m_Weight: 1
+  m_TranslationAtRest: {x: 0, y: 0, z: 1}
+  m_RotationAtRest: {x: 0, y: 0, z: 0}
+  m_TranslationOffsets:
+  - {x: 0, y: 0, z: 0}
+  m_RotationOffsets:
+  - {x: 0, y: 0, z: 0}
+  m_AffectTranslationX: 1
+  m_AffectTranslationY: 1
+  m_AffectTranslationZ: 1
+  m_AffectRotationX: 1
+  m_AffectRotationY: 1
+  m_AffectRotationZ: 1
+  m_IsContraintActive: 1
+  m_IsLocked: 1
+  m_Sources:
+  - sourceTransform: {fileID: 4424952311557091936}
+    weight: 1
+--- !u!1001 &5304141672319306423
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204423567781799215, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794176263371531058, guid: 832355f925d012f42ac3109c8ee0468a,
+        type: 3}
+      propertyPath: m_Name
+      value: DroneFollowMovement
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4197947099681628304, guid: 832355f925d012f42ac3109c8ee0468a, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 832355f925d012f42ac3109c8ee0468a, type: 3}
+--- !u!1 &1890699392689873257 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6026104008775822302, guid: 832355f925d012f42ac3109c8ee0468a,
+    type: 3}
+  m_PrefabInstance: {fileID: 5304141672319306423}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4424952311557091936 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8427517007701162199, guid: 832355f925d012f42ac3109c8ee0468a,
+    type: 3}
+  m_PrefabInstance: {fileID: 5304141672319306423}
+  m_PrefabAsset: {fileID: 0}
