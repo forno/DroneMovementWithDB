@@ -6,8 +6,16 @@ Combined prefab: CosMovement and DelayMovement
 ```
 CosDelayMovement
 |- Target
-|- DroneDelayMovement
-|- CosMovement
+|- DelayMovement
+   |- Target
+   |- DelayBasePoint
+   |  |- DelayPoint
+   |     |- CosMovement
+   |        |- (abbreviation)
+   |- HorizonDelayBase
+   |  |- (abbreviation)
+   |- VerticalDelayBase
+      |- (abbreviation)
 ```
 
 ## Usage

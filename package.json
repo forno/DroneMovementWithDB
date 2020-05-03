@@ -1,12 +1,14 @@
 {
   "name": "link.xmaho.movement.db.drone",
-  "version": "0.1.1-preview",
+  "version": "0.2.0-preview",
   "displayName": "Drone Movement with Dynamic Bone",
   "description": "x.maho Drone Movement with Dynamic Bone",
   "unity": "2018.4",
   "keywords": [
     "VRChat",
-    "VRC"
+    "VRC",
+    "follow",
+    "orbit"
   ],
   "samples": [
   {

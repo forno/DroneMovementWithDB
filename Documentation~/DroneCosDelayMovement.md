@@ -6,8 +6,8 @@ Combined prefab: CosMovement and DelayMovement
 ```
 CosDelayMovement
 |- Target
-|- DroneDelayMovement
-|- CosMovement
+|- DelayMovement
+|  |- (Abbreviation)
 |- LookAtPoint
 ```
 
