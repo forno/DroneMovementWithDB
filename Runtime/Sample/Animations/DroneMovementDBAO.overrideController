@@ -6,8 +6,10 @@ AnimatorOverrideController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: NekomaWithDrone
+  m_Name: DroneMovementDBAO
   m_Controller: {fileID: 9100000, guid: 596fbaf43def8a54999157a5089972da, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400058, guid: 7e5debf235ac2d54397a268de3328672, type: 3}
     m_OverrideClip: {fileID: 7400000, guid: f32ca588f415d4c459dac445dfa10202, type: 2}
+  - m_OriginalClip: {fileID: 7400052, guid: 7e5debf235ac2d54397a268de3328672, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bd680b00e479d664fbe7d2a29e882c5e, type: 2}
